@@ -7,10 +7,8 @@
 ### **💻Foram utilizados: Nodejs, Insomnia(API) e Beekeeper Studio(BD - SQLite3)**
 
 
-<img src = "https://nodejs.org/static/images/logo.svg" title="Nodejs" width="122" height="75" style="border:2px solid purple">
-<img src = "https://insomnia.rest/images/insomnia-logo.svg" title="Insomnia" width="122" height="75" style="border:2px solid purple">
-<img src = "https://docs.beekeeperstudio.io/bk-logo-yellow-icon.svg" title="Beekeeper Studio" width="122" height="75"  style="border:2px solid purple">
-
+<img src = "https://nodejs.org/static/images/logo.svg" title="Nodejs" width="122" height="75" style="border:2px solid purple"> | <img src = "https://insomnia.rest/images/insomnia-logo.svg" title="Insomnia" width="122" height="75" style="border:2px solid purple"> | <img src = "https://docs.beekeeperstudio.io/bk-logo-yellow-icon.svg" title="Beekeeper Studio" width="122" height="75"  style="border:2px solid purple">
+---|---|---
 ---
 [<img src = "https://github.githubassets.com/images/modules/logos_page/Octocat.png" title="github.com/Diego-Girao/NLW06" width="30">**NLW06 - Rocketseat - Compliments APP🚀**](https://github.com/Diego-Girao/NLW06)
 
