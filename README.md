@@ -13,6 +13,7 @@
 [<img src = "https://github.githubassets.com/images/modules/logos_page/Octocat.png" title="github.com/Diego-Girao/NLW06" width="30">**NLW06 - Rocketseat - Compliments APP🚀**](https://github.com/Diego-Girao/NLW06)
 
 
+[![MIT license](https://img.shields.io/badge/Language-TypeScript-blue.svg)](https://lbesson.mit-license.org/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![Generic badge](https://img.shields.io/badge/NWL06/Together-SUCCESS-<COLOR>.svg)](https://shields.io/)
 
