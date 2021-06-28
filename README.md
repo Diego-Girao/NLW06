@@ -1,6 +1,4 @@
- <img src = "https://lh3.googleusercontent.com/proxy/i4hfpXgiZwvnmuhp-tSYPGqWXKMrK1J3KM3z4yjorX6knhNlQe0rWcwdAwOpiCq19GefQ-g2PKh9guM5Ly8zSv6NTbiyj3gXV1Prk7tUo6wnb2QRCrw" title="Rocketseat" width="137" height="">
-
-# **NLW06/Together - Never Stop Learning 🚀**
+ #  <img src = "https://avatars.githubusercontent.com/u/69590972?s=200&v=4" title="Rocketseat" width="122" height=""> | **NLW06/Together - Never Stop Learning 🚀**
 
 ### **Mission: Node.js - Menthor**: Dani Leao *@danileao* (The Best Ever)
 ---
