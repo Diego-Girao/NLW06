@@ -1,4 +1,8 @@
- #  <img src = "https://avatars.githubusercontent.com/u/69590972?s=200&v=4" title="Rocketseat" width="122" height=""> | **NLW06/Together - Never Stop Learning 🚀**
+<p align="center">
+<img src = "https://fiqueemcasa.nic.ifrn.edu.br/img/servicos/rock.png" title="Rocketseat" width="122" height="">
+</p>
+
+# **NLW06/Together - Never Stop Learning 🚀**
 
 ### **Mission: Node.js - Menthor**: Dani Leao *@danileao* (The Best Ever)
 ---
