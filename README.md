@@ -1,11 +1,11 @@
 # **NLW06/Together - Never Stop Learning 🚀**
 
-### **Mission: Node.js - Menthor**: Dani Leao *@danileao* (The Best Ever)
+### **Mission: Node.js - Menthor**: Dani Leao *@danileao*
 ---
 ### **💻Foram utilizados: Nodejs, Insomnia(API) e Beekeeper Studio(BD - SQLite3)**
 
 
-<img src = "https://nodejs.org/static/images/logo.svg" title="Nodejs" width="122" height="75"> | <img src = "https://insomnia.rest/images/insomnia-logo.svg" title="Insomnia" width="122" height="75"> | <img src = "https://docs.beekeeperstudio.io/bk-logo-yellow-icon.svg" title="Beekeeper Studio" width="122" height="75">
+<img src = "https://nodejs.org/static/images/logo.svg" title="Nodejs" width="122" height="75"> | <img src = "https://insomnia.rest/images/insomnia-logo.svg" title="Insomnia" width="122" height="75"> | <img src = "https://docs.beekeeperstudio.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d8c86b0688f5a0ed4e61b8b24850b7b18cc29a09/bk-logo-full-white(1).svg" title="Beekeeper Studio" width="192" height="75">
 ---|---|---
 ---
 [<img src = "https://github.githubassets.com/images/modules/logos_page/Octocat.png" title="github.com/Diego-Girao/NLW06" width="30">**NLW06 - Rocketseat - Compliments APP🚀**](https://github.com/Diego-Girao/NLW06)
