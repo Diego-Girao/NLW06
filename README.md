@@ -1,21 +1,24 @@
-# **NLW06/Together - Never Stop Learning 🚀**
+<div align="center">
+<img src = "https://www.rocketseat.com.br/discover/_next/static/media/rocketseat-dh-logo.464b48a4.svg" title="NLW06 - Rocketseat" width="200">
 
-### **Mission: Node.js - Menthor**: Dani Leao *@danileao*
----
-### **💻Foram utilizados: Nodejs, Insomnia(API) e Beekeeper Studio(BD - SQLite3)**
+# **NLW06 { Together } - Node.js Never Stop Learning 🚀**
+</div>
 
-
+<div align="center">
+   
 <img src = "https://nodejs.org/static/images/logo.svg" title="Nodejs" width="122" height="75"> | <img src = "https://insomnia.rest/images/insomnia-logo.svg" title="Insomnia" width="122" height="75"> | <img src = "https://docs.beekeeperstudio.io/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d8c86b0688f5a0ed4e61b8b24850b7b18cc29a09/bk-logo-full-white(1).svg" title="Beekeeper Studio" width="192" height="75">
 ---|---|---
----
+   
+</div>
+
+### **💻 Stacks do projeto: Nodejs, Insomnia(API) e Beekeeper Studio(BD - SQLite3)**
+
 [<img src = "https://github.githubassets.com/images/modules/logos_page/Octocat.png" title="github.com/Diego-Girao/NLW06" width="30">**NLW06 - Rocketseat - Compliments APP🚀**](https://github.com/Diego-Girao/NLW06)
 
 
 [![MIT license](https://img.shields.io/badge/Language-TypeScript-blue.svg)](https://lbesson.mit-license.org/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![Generic badge](https://img.shields.io/badge/NWL06/Together-SUCCESS-<COLOR>.svg)](https://shields.io/)
-
-
 
 ### Features (Compliments APP - Backend)
 ---
@@ -46,20 +49,10 @@
 
    - [ ] FrontEnd (Tecnologia a ser definida) 🚧
 
-   - [ ] Deploy no Heroku 🚧
+   - [ ] Deploy no Netlify 🚧
 
 ---
 
 
 **Author** | <img src = "https://avatars.githubusercontent.com/u/70491871?v=4" width="100"> | [<img src = "https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="30">**Diego Girão**](https://github.com/Diego-Girao)
 ----------|-----------|------
-
-
-
-
-<!-- 
-<img src = "https://i.ytimg.com/vi/ITd6G5p3u-c/maxresdefault_live.jpg" title="NLW06 - Rocketseat" width="300"> -->
-
-
-
-
